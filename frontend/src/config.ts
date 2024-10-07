@@ -1,0 +1,1 @@
+export const BACKEND_URL = "https://my-app.sahilthool12.workers.dev"
